@@ -1,4 +1,4 @@
-# 👋 Hi, Sevinjeno here !
+# Hi Folks, Sevinjeno here !
 
 ### React Next & Node.js Developer  
 ### Passionate about Software Architecture and building useful, clean modern web apps  
@@ -9,7 +9,7 @@
 - **Frontend:** React, Next, JavaScript, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express , C++, C# 
 - **Tools:** Git, GitHub, VS Code  
-- **Other:** REST APIs, Basic TypeScript, UI Components  
+- **Other:** REST APIs, AWS , Docker , TypeScript, UI Components  
 
 ---
 
