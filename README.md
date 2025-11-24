@@ -1,8 +1,8 @@
 # Hi Folks, Sevinjeno here !
 
 ### React Next & Node.js Developer  
-### Passionate about Software Architecture and building useful, clean modern web apps  
-### Goal: Become top 1% developer & active open-source contributor
+### Passionate about Software Architecture and building useful clean modern web apps  
+### Goal: To build things that matter and create real impact
 ---
 
 ## 🧠 Skills
@@ -20,6 +20,10 @@
 
 ## 🏗️ Projects  
 (Coming soon — building something exciting!)  
+
+---
+## 🏗️ Portfolio  
+ https://www.sevinjenofernando.in/
 
 ---
 
