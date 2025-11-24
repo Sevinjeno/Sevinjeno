@@ -2,7 +2,7 @@
 
 ### React Next & Node.js Developer  
 ### Passionate about Software Architecture and building useful, clean modern web apps  
-### Goal: Become top 1% React/Node developer & active open-source contributor
+### Goal: Become top 1% developer & active open-source contributor
 ---
 
 ## 🧠 Skills
