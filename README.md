@@ -18,11 +18,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Jeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sevinjeno&show_icons=true&theme=dark)
-
----
-
 ## 🏗️ Projects  
 (Coming soon — building something exciting!)  
 
